@@ -2,6 +2,11 @@
 
 ## Descrição do projeto
 
+Alunos envolvidos:
+- Gabriel Craveiro de Oliveira Garcia
+- Lucas Ferreira Silva
+- Rafael Bruno Soares Gonçalves
+
 Este projeto foi desenvolvido para a disciplina de Infraestrutura de Redes com o objetivo de implementar uma aplicação de chat utilizando o modelo cliente-servidor. A ideia principal foi colocar em prática conceitos estudados durante a disciplina, como comunicação em rede com sockets, protocolos de transporte, criptografia de dados e organização de aplicações distribuídas.
 
 O sistema consiste em um servidor central que aceita conexões de múltiplos clientes ao mesmo tempo. Cada cliente pode se autenticar com um usuário e senha, enviar mensagens para o servidor e receber mensagens enviadas por outros usuários conectados.
